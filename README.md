@@ -1,14 +1,11 @@
 <img src="https://user-images.githubusercontent.com/103372255/177001916-81f79df9-663c-47d7-905c-d16404a7542f.png" align="left" style="width: 100%" />  
   
-
-
+<br/>  
 
 ### Glad to see you here!  
 I am a fronted developer, who has just started in this field, but with the drive to constantly learn and improve. With the idea that every day I can get more knowledge.  
-  
-<br/>  
-<br/>  
 
+<br/>  
 
 ## Languages and Tools  
 <div align="center">  
@@ -28,7 +25,3 @@ I am a fronted developer, who has just started in this field, but with the drive
 </div>  
 
 <br/>  
-
-  
-
-<br/>
