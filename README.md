@@ -1,20 +1,3 @@
-<!--
-### Hi i'm Heider 👋
-
-**heiderp/heiderp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![github-header-image](https://user-images.githubusercontent.com/103372255/177001916-81f79df9-663c-47d7-905c-d16404a7542f.png)
-<br> --!>
 <img src="https://user-images.githubusercontent.com/103372255/177001916-81f79df9-663c-47d7-905c-d16404a7542f.png" align="left" style="width: 100%" />  
   
 
@@ -45,3 +28,13 @@ I am a fronted developer, who has just started in this field, but with the drive
 </div>  
 
 <br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
