@@ -1,6 +1,6 @@
-### Hi there 👋
-
 <!--
+### Hi i'm Heider 👋
+
 **heiderp/heiderp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![github-header-image](https://user-images.githubusercontent.com/103372255/177001916-81f79df9-663c-47d7-905c-d16404a7542f.png)
