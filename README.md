@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![github-header-image](https://user-images.githubusercontent.com/103372255/177001916-81f79df9-663c-47d7-905c-d16404a7542f.png)
-<br>
--->
-![HERO_IMAGE](https://user-images.githubusercontent.com/103372255/177001916-81f79df9-663c-47d7-905c-d16404a7542f.png)  
+<br> --!>
+<img src="https://user-images.githubusercontent.com/103372255/177001916-81f79df9-663c-47d7-905c-d16404a7542f.png" align="left" style="width: 100%" />  
   
 
 
@@ -46,7 +45,3 @@ I am a fronted developer, who has just started in this field, but with the drive
 </div>  
 
 <br/>  
-
-
-
-
